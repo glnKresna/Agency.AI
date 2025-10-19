@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, {useState} from 'react'
 import assets from '../assets/assets'
 import ThemeToggleBtn from './ThemeToggleBtn';
 
